@@ -10,7 +10,7 @@ This repository reflects my dedication to mastering Python through consistent pr
 - 📦 Variables, Data Types & Operators  
 - 🔀 Control Statements  
 - 🔁 Loops / Iteration  
-- 📥📤 Input / Output  
+- 📥 Input / Output  
 - 📚 Modules & Libraries  
 - 🔧 Functions & Recursion  
 - 🔡 String Handling  
