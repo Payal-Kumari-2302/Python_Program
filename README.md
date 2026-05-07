@@ -53,6 +53,20 @@ This repository reflects my dedication to mastering Python through consistent pr
 
 ---
 
+##🛠️ Technologies Used
+Python 3
+VS Code
+Git & GitHub
+
+---
+
+##📌 Created By
+
+👩‍💻 Payal Kumari
+    Passionate Python Learner 🚀  
+
+---
+
 ## ⭐ Support
 
 Feel free to explore my work and share your feedback! 😊
