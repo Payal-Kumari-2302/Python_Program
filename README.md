@@ -1,4 +1,4 @@
-🐍 Python Programs
+# 🐍 Python Programs
 
 This repository reflects my dedication to mastering Python through consistent practice, logical problem-solving, and implementation of core programming concepts. 🚀
 
@@ -53,20 +53,21 @@ This repository reflects my dedication to mastering Python through consistent pr
 
 ---
 
-##🛠️ Technologies Used
-Python 3
-VS Code
-Git & GitHub
+## 🛠️ Technologies Used
+
+- Python 3  
+- VS Code  
+- Git & GitHub  
 
 ---
 
-##📌 Created By
+## 📌 Created By
 
-👩‍💻 Payal Kumari
-    Passionate Python Learner 🚀  
+👩‍💻 **Payal Kumari**  
+Passionate Python Learner 🚀  
 
 ---
 
-## ⭐ Support
+## 🤝 Support
 
 Feel free to explore my work and share your feedback! 😊
