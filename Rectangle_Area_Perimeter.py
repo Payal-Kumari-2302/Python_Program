@@ -1,4 +1,4 @@
-# Program_8
+# Program_7
 
 # W.A.Python program to accept length and width of rectangle in cm
 # and display the area and perimeter of rectangle.
