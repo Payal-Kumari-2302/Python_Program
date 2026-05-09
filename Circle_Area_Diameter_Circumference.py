@@ -1,7 +1,6 @@
 # Program
 
-# W.A.Python program to accept the radius of a circle
-# and display area, diameter, and circumference.
+# W.A.Python program to accept the radius of a circle and display area, diameter, and circumference.
 
 radius = float(input("Enter radius of a circle:-> "))
 
