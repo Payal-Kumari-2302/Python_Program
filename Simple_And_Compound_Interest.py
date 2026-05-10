@@ -1,4 +1,4 @@
-# Program_11
+# Program_10
 
 # W.A.Python program to accept principal amount,rate of interest and time in year, then calculatemSimple Interest and Compound Interest.
 
