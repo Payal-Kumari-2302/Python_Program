@@ -1,4 +1,4 @@
-# Program_12
+# Program_11
 
 # W.A.Python program to accept three sides of a triangle and calculate the area, perimeter and semi perimeter of the triangle.
 
