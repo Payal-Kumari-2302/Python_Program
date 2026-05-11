@@ -1,4 +1,4 @@
-# Program_32
+# Program_28
 
 # if, elif and else Statement
 # W.A.Python program to accept any two numbers and display the greatest number.
