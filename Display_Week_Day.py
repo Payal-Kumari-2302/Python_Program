@@ -1,4 +1,4 @@
-#Program_34
+#Program_30
 
 # W.A.Python program to accept any week day number and display the corresponding week day name
 
