@@ -1,4 +1,4 @@
-#Program_26
+#Program_22
 
 # W.A.Python program to solve quadratic equation. The standard form of quadratic equation is: ax² + bx + c = 0where a, b and c are real numbers and a ≠ 0
 
