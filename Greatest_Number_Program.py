@@ -1,4 +1,4 @@
-#Program_36
+#Program_32
 
 # W.A.Python program to accept any two number and display the greatest number or both are same.
 
