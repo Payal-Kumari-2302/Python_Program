@@ -1,4 +1,4 @@
-#Program_51
+#Program_42
 
 # Given a list of numbers, find the sum and average
 
