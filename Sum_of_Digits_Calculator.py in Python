@@ -1,0 +1,35 @@
+Program_53
+
+
+# Calculate the sum of digits of a given number
+
+# Method 1: Using while loop
+
+num = 2346789102100
+temp = num
+sum_digits = 0
+
+while temp > 0:
+    digit = temp % 10
+    sum_digits += digit
+    temp = temp // 10
+
+print("Sum of digits (Method 1):", sum_digits)
+
+
+# Method 2: Using for loop and string
+
+num = input("Enter a number: ")
+
+sum_digits = 0
+for i in num:
+    sum_digits += int(i)
+
+print("Sum of digits (Method 2):", sum_digits)
+
+
+# Method 3: One line method
+
+num = input("Enter a number: ")
+
+print("Sum of digits (Method 3):", sum(int(i) for i in num))
