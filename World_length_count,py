@@ -1,0 +1,7 @@
+#Program_52
+
+words = ["Payal", "Babli", "Mahi", "Raj", "Subash", "Preyansh", "ShreyaGhosh"]
+
+count = sum(1 for w in words if len(w) > 5)
+
+print("Count:", count)
